@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chen1250734885
-- 👀 I’m interested in Java and Vue
-- 🌱 I’m currently learning Java and Vue
+- 👀 I’m interested in H5 and Vue/elementUi
+- 🌱 I’m currently learning React and Uni-app
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
