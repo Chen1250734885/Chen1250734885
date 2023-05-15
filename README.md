@@ -2,7 +2,7 @@
 - 👀 I’m interested in H5 and Vue/elementUi
 - 🌱 I’m currently learning React and Uni-app
 - 💞️ I’m looking to collaborate on Hot Events
-- 📫 How to reach me chen.wei.1120@gmail.com
+- 📫 How to reach me chen.wei.work.1120@gmail.com
 
 <!---
 Chen1250734885/Chen1250734885 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
